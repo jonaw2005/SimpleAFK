@@ -1,0 +1,15 @@
+name: SimpleAFK
+version: '${project.version}'
+main: jonaw2005.simpleafk.SimpleAFK
+api-version: 1.19
+authors: [ jonaw2005 ]
+description: A simple plugin to handle AFK players
+commands:
+  AFK:
+    usage: /AFK
+    permission: SimpleAFK.AFK
+    description: afk yourself
+  unAFK:
+    usage: /unAFK
+    permission: SimpleAFK.unAFK
+    description: unafk yourself

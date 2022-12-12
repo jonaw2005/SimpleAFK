@@ -1,0 +1,9 @@
+jonaw2005\simpleafk\SimpleAFK.class
+jonaw2005\simpleafk\util\Config.class
+jonaw2005\simpleafk\util\MovementCache.class
+jonaw2005\simpleafk\util\AFKRunnable.class
+jonaw2005\simpleafk\util\AFKHandler.class
+jonaw2005\simpleafk\util\ConfigLoader.class
+jonaw2005\simpleafk\events\onMove.class
+jonaw2005\simpleafk\commands\simpleExec.class
+jonaw2005\simpleafk\events\onJoin.class
