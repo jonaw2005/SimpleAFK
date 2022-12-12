@@ -23,3 +23,7 @@ Commands:
   > /unafk -> marks the player as not afk, even if he didnt move (will not completely block the user from getting the effect, just resets the time)
   
   
+  Download:  
+  >https://www.mediafire.com/file/nw4lp0g3dozlx14/SimpleAFK-1.0-SNAPSHOT.jar/file
+  
+  
