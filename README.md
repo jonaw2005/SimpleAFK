@@ -13,7 +13,7 @@ AFKconfig.yml has following content:
 
 You can use color codes like for example §1 for dark blue
 
-List of possible color codes:
+List of possible color codes:  
 ![image](https://user-images.githubusercontent.com/68852290/207129506-01418ccd-9bda-4642-9248-9aba0a7c4c76.png)
 
 
